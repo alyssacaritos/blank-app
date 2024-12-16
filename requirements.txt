@@ -1,7 +1,5 @@
 streamlit
 pandas
 numpy
-sklearn.preprocessing
-matplotlib.pyplot
-mpl_toolkits.mplot3d
+matplotlib
 scikit-learn
