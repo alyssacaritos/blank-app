@@ -1,1 +1,8 @@
 streamlit
+pandas
+numpy
+random
+sklearn.preprocessing
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+scikit-learn
